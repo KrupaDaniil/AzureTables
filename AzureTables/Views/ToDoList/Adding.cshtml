@@ -1,0 +1,39 @@
+﻿@model AzureTables.Models.DTOs.ToDoListDTOViewModel;
+@{
+    ViewData["Title"] = "Adding";
+}
+
+<div class="container">
+    <div class="d-flex align-items-center justify-content-center">
+        <div class="card my-3 w-75">
+            <div class="card-header">
+                <div class="text-center fw-semibold fs-5">Add to-do</div>
+            </div>
+            <form method="post" asp-controller="ToDoList" asp-action="Adding" asp-antiforgery="true">
+                <div class="card-body px-3">
+                    <div class="row mb-3">
+                        <div class="col">
+                            <input type="text" name="Category" class="form-control" 
+                                   placeholder="Enter category" aria-label="Enter category"/>
+                        </div>
+                        <div class="col">
+                            <input type="text" name="Theme" class="form-control"
+                                   placeholder="Enter theme" aria-label="Enter theme"/>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <textarea name="Description" class="form-control" placeholder="Enter description" aria-label="Enter description"></textarea>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <div class="d-flex align-items-center justify-content-center">
+                        <button type="submit" class="btn btn-outline-success px-4 me-2">Add</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

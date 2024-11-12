@@ -1,0 +1,12 @@
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\bin\Debug\net8.0\EntityModels.deps.json
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\bin\Debug\net8.0\EntityModels.dll
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\bin\Debug\net8.0\EntityModels.pdb
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.csproj.AssemblyReference.cache
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.AssemblyInfoInputs.cache
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.AssemblyInfo.cs
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.csproj.CoreCompileInputs.cache
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.dll
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\refint\EntityModels.dll
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\EntityModels.pdb
+C:\Users\Nice\RiderProjects\AzureTables\EntityModels\obj\Debug\net8.0\ref\EntityModels.dll
